@@ -1,6 +1,5 @@
 # PELIM04
 ElReinoPrhobido
-El Reino Prohibido
 En la primera hice un menu en el que en cada opción te manda a su respectiva parte. La primera parte es el título, en esa parte puse el nombre de la película y un introducción de la película para que el visitante de la web pueda saber de que trata. El sigüiente era el director, puse el título "Director", una foto suya y una presentación de quien es él. El tercer punto trataba de los personajes, en este apartado hice una descripción de los protagonistas junto a una foto de cada uno de ellos. En el cuarto apartado hice una tabla con el rolspawn y el colspawn donde puse sitios donde se podia ver la película con su respectiva puntuación y precio. El sigüiente punto era la "Media", en este punto habia que poner fotos de la película el trailer y un vídoe propio recomendando la película, asi que añadí 5 fotos y el traíler de youtube, además de grabarme recomendando la película y subirlo a la página. En el antepenútilmo paso pedi algunos datos para que la gente dejara su opinión de la película. En el penúltimo puse un link a la wikipedia para la gente que quiera saber mas de la película. Por último en el punto libre decidí poner un vídeo en el que los actores explican su experiencia grabando la película y su opinión.
 https://alexgrabulosapuertas.github.io/PELIM04/pelicula/index
 
